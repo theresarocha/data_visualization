@@ -20,7 +20,7 @@ Este projeto foi desenvolvido na Semana do Iniciante em Data Science promovido p
 
 DADOS COVID-19 NO BRASIL: https://github.com/elhenrico/covid19-Brazil-timeseries/blob/master/deaths-new.csv
 
-ACESSO AO DASHBOARD: https://app.powerbi.com/groups/me/reports/91c36a3a-a457-47bb-b300-c08719bfbe9b?ctid=ca0dba4b-4ea9-4ed5-8830-53799390ec35
+ACESSO AO DASHBOARD: https://app.powerbi.com/view?r=eyJrIjoiYWI2ODlmMTQtODk2NS00NzE5LTgzNmYtMzM1YjZhNmFmYzAzIiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9
 
 ### Projeto 2: Por que é importante entendermos a variação do dólar?
 
