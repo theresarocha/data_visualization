@@ -20,7 +20,7 @@ Este projeto foi desenvolvido na Semana do Iniciante em Data Science promovido p
 
 DADOS COVID-19 NO BRASIL: https://github.com/elhenrico/covid19-Brazil-timeseries/blob/master/deaths-new.csv
 
-ACESSO AO DASHBOARD: https://app.powerbi.com/view?r=eyJrIjoiYWI2ODlmMTQtODk2NS00NzE5LTgzNmYtMzM1YjZhNmFmYzAzIiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9
+[ACESSO AO DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYzZkNmUzOTEtOTFkNi00NjQ5LTg1NWYtMDJlN2M2MjA0MjI4IiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9)
 
 ### Projeto 2: Por que é importante entendermos a variação do dólar?
 
@@ -28,7 +28,7 @@ Projeto realizado com objetivo de entender a variação do dólar comercial de m
 
 BANCO CENTRAL DO BRASIL: https://dadosabertos.bcb.gov.br/dataset/dolar-americano-usd-todos-os-boletins-diarios
 
-ACESSO AO DASHBOARD: https://app.powerbi.com/groups/me/reports/8dd1f627-77bf-4fde-85b2-ba25b29a5062?ctid=ca0dba4b-4ea9-4ed5-8830-53799390ec35
+[ACESSO AO DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYWI2ODlmMTQtODk2NS00NzE5LTgzNmYtMzM1YjZhNmFmYzAzIiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9)
 
 ### Projeto 3: People Analytics - Análise de pessoas orientada a dados
 
@@ -36,4 +36,4 @@ People Analytics ou análise de pessoas é uma abordagem que vem sendo muito uti
 
 HUMAN RESOURCES DATASET: https://www.kaggle.com/rhuebner/human-resources-data-set
 
-ACESSO AO DASHBOARD: https://app.powerbi.com/groups/me/reports/59f400eb-310b-4d41-ab98-a6ca1ade9567?ctid=ca0dba4b-4ea9-4ed5-8830-53799390ec35
+[ACESSO AO DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNDY0N2YyMjEtMDU5Ny00NTIyLThlMjYtNjI3YmFlNDNmNDBiIiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9)
