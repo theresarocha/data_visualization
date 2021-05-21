@@ -1,6 +1,6 @@
 # Análise de Dados com Power BI
 
-Projetos de análise de dados usando Power BI realizados no curso Dominando Data Science da Flai Inteligência Artificial.
+Projetos de análise de dados usando Power BI Desktop realizados no curso Dominando Data Science da Flai Inteligência Artificial.
 
 Autor: Theresa Rocha
 
