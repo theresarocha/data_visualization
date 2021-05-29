@@ -1,4 +1,4 @@
-# Projetos de Análise de Dados com Power BI Desktop
+# Análise de Dados com Power BI Desktop
 
 Projetos de análise de dados usando Power BI Desktop realizados no curso Dominando Data Science da Flai Inteligência Artificial.
 
