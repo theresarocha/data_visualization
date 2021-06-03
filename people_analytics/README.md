@@ -8,10 +8,14 @@ Pensando na importância da análise de pessoas em uma empresa, analisei o conju
 
 [ARTIGO NO MEDIUM](https://theresarocha.medium.com/people-analytics-an%C3%A1lise-de-pessoas-orientada-a-dados-6059beb66ea2)
 
+## Fonte dos dados
+
+Kaggle Human Resources Dataset: https://www.kaggle.com/rhuebner/human-resources-data-set
+
 ## Arquivos
 
 - Arquivo em pbix com a visualização dos dados analisados
-- Artigo em pdf sobre a importância de análise de dados na área de Recursos Humanos
+- Artigo em pdf sobre a importância da análise de dados na área de Recursos Humanos
 
 
 
