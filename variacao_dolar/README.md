@@ -6,6 +6,10 @@ Projeto realizado com objetivo de entender a variação do dólar comercial de m
 
 [ARTIGO NO MEDIUM](https://theresarocha.medium.com/por-que-%C3%A9-importante-entendermos-a-varia%C3%A7%C3%A3o-do-d%C3%B3lar-7165393db8dc)
 
+## Fonte dos dados
+
+Banco Central do Brasil: https://dadosabertos.bcb.gov.br/dataset/dolar-americano-usd-todos-os-boletins-diarios
+
 ## Arquivos
 
 - Arquivo em pbix com a visualizaçaõ dos dados analisados
