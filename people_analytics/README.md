@@ -10,7 +10,7 @@ Pensando na importância da análise de pessoas em uma empresa, analisei o conju
 
 ## Fonte dos dados
 
-Kaggle Human Resources Dataset: https://www.kaggle.com/rhuebner/human-resources-data-set
+Kaggle - Human Resources Dataset: https://www.kaggle.com/rhuebner/human-resources-data-set
 
 ## Arquivos
 
