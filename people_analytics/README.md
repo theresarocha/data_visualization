@@ -10,6 +10,8 @@ Pensando na importância da análise de pessoas em uma empresa, analisei o conju
 
 ## Arquivos
 
+- Arquivo em pbix com a visualização dos dados analisados
+- Artigo em pdf sobre a análise de dados na área de Recursos Humanos
 
 
 
