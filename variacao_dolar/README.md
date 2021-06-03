@@ -8,5 +8,6 @@ Projeto realizado com objetivo de entender a variação do dólar comercial de m
 
 ## Arquivos
 
-Arquivo em pbxi 
+- Arquivo em pbix com a visualizaçaõ dos dados analisados
+- Artigo em pdf sobre a importância de entender variação do dólar comercial
 
