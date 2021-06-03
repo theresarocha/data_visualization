@@ -1,6 +1,6 @@
 # Projetos de Visualização de Dados
 
-Projetos de visualização de dados usando Power BI Desktop realizados no curso Dominando Data Science da Flai Inteligência Artificial.
+Projetos de visualização de dados usando o Power BI Desktop realizados no curso Dominando Data Science da Flai Inteligência Artificial.
 
 Autor: Theresa Rocha
 
