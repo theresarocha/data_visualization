@@ -8,5 +8,5 @@ Análise de dados referente as mortes por COVID-19 no Brasil de acordo com os n�
 
 ## Arquivos
 
-- Arquivo em pbix com a visualizaçaõ dos dados analisados 
+- Arquivo em pbix com a visualização dos dados analisados 
 - Artigo em pdf sobre análise de mortes por coronavírus no Brasil
