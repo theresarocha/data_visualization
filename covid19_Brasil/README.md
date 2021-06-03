@@ -6,7 +6,16 @@ Análise de dados referente as mortes por COVID-19 no Brasil de acordo com os n�
 
 [ARTIGO NO MEDIUM](https://theresarocha.medium.com/an%C3%A1lise-de-mortes-por-covid-19-no-brasil-98d9e3f14f44)
 
+## Fonte dos dados
+
+Ministério da Saúde: https://covid.saude.gov.br/
+
+Dados da COVID 19 no Brasil: https://github.com/elhenrico/covid19-Brazil-timeseries/blob/master/deaths-new.csv
+
 ## Arquivos
 
 - Arquivo em pbix com a visualização dos dados analisados 
 - Artigo em pdf sobre análise de mortes por coronavírus no Brasil
+
+
+
