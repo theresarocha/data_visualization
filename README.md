@@ -10,6 +10,8 @@ Projeto 2 - Por que é importante entendermos a variação do dólar?
 
 Projeto 3 - People Analytics - Análise de pessoas orientada a dados
 
+Projeto 4 - O que é churn e por que é uma métrica importante para as empresas?
+
 Para elaboração destes projetos segui as seguintes etapas:
 
 - Entendimento do problema
