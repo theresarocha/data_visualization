@@ -14,5 +14,5 @@ Kaggle: https://www.kaggle.com/sakshigoyal7/credit-card-customers
 
 ## Arquivos
 
-Arquivo em pbix com a visualizaçaõ dos dados analisados
-Artigo em pdf sobre o mapeamento do perfil de clientes de uma empresa de cartão de crédito
+- Arquivo em pbix com a visualização dos dados analisados
+- Artigo em pdf sobre o mapeamento do perfil de clientes de uma empresa de cartão de crédito
