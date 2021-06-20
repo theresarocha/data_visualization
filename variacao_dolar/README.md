@@ -12,6 +12,6 @@ Banco Central do Brasil: https://dadosabertos.bcb.gov.br/dataset/dolar-americano
 
 ## Arquivos
 
-- Arquivo em pbix com a visualizaçaõ dos dados analisados
+- Arquivo em pbix com a visualização dos dados analisados
 - Artigo em pdf sobre a importância de entender variação do dólar comercial
 
