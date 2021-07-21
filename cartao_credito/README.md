@@ -1,4 +1,4 @@
-# Projeto 5 - Gastos do Brasileiro com Cartão de Crédito
+# Projeto 5 - Gastos do brasileiro com cartão de crédito
 
 Este projeto tem o objetivo de mapear os gastos dos brasileiros com cartão de crédito de um banco de médio porte no país no período de janeiro de 2019 a abril de 2020.
 
