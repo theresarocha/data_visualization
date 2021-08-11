@@ -4,6 +4,8 @@ People Analytics ou análise de pessoas é uma abordagem que vem sendo muito uti
 
 Pensando na importância da análise de pessoas em uma empresa, analisei o conjunto de dados disponibilizado no Kaggle sobre alguns indicadores da área de RH de uma empresa fictícia.
 
+Este projeto foi realizado com o apoio do curso Dominando Data Science da [Flai Inteligência Artificial](https://www.flai.com.br/).
+
 [ACESSO AO DASHBOARD ONLINE](https://app.powerbi.com/view?r=eyJrIjoiNDY0N2YyMjEtMDU5Ny00NTIyLThlMjYtNjI3YmFlNDNmNDBiIiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9)
 
 [ARTIGO NO MEDIUM](https://theresarocha.medium.com/people-analytics-an%C3%A1lise-de-pessoas-orientada-a-dados-6059beb66ea2)
