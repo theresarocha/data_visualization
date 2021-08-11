@@ -1,6 +1,7 @@
 # Projeto 2: Por que é importante entendermos a variação do dólar?
 
 Projeto realizado com objetivo de entender a variação do dólar comercial de maneira simples e de fácil entendimento. Foi realizada uma análise da cotação de compra do dólar comercial nos últimos 11 anos (01/01/2010 a 12/05/2021) com base nos dados disponibilizados pelo Banco Central.
+Este projeto foi realizado com o apoio do curso Dominando Data Science da Flai Inteligência Artificial.
 
 [ACESSO AO DASHBOARD ONLINE](https://app.powerbi.com/view?r=eyJrIjoiYWI2ODlmMTQtODk2NS00NzE5LTgzNmYtMzM1YjZhNmFmYzAzIiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9&pageName=ReportSection)
 
