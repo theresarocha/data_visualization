@@ -1,6 +1,6 @@
 # Projeto 1: Análise de Mortes por COVID-19 no Brasil
 
-Análise de dados referente as mortes por COVID-19 no Brasil de acordo com os números levantados pelo Ministério da Saúde. Esta análise está considerando o início dos reportes de casos de coronavírus no país pelo MS até o dia 03/05/2021. Este projeto foi desenvolvido na Semana do Iniciante em Data Science promovido pela Flai Inteligência Artificial.
+Análise de dados referente as mortes por COVID-19 no Brasil de acordo com os números levantados pelo Ministério da Saúde. Esta análise está considerando o início dos reportes de casos de coronavírus no país pelo MS até o dia 03/05/2021. Este projeto foi desenvolvido na Semana do Iniciante em Data Science promovido pela [Flai Inteligência Artificial](https://www.flai.com.br/).
 
 [ACESSO AO DASHBOARD ONLINE](https://app.powerbi.com/view?r=eyJrIjoiYzZkNmUzOTEtOTFkNi00NjQ5LTg1NWYtMDJlN2M2MjA0MjI4IiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9)
 
