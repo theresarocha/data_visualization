@@ -2,7 +2,7 @@
 
 Este projeto tem o objetivo de mapear os gastos dos brasileiros com cartão de crédito de um banco de médio porte no país no período de janeiro de 2019 a abril de 2020.
 
-[ACESSO AO DASHBOARD ONLINE](https://app.powerbi.com/view?r=eyJrIjoiNmEyZmMxOGYtOTE5Zi00MTJiLWE5Y2QtNDI0MGJiYjQxOTNkIiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9)
+[ACESSO AO DASHBOARD ONLINE](https://app.powerbi.com/view?r=eyJrIjoiYTlmMDY4NDYtYTlkNC00OWJkLWI1OTItNzUzM2QzMzJkMTkwIiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9)
 
 ## Fonte dos dados
 
