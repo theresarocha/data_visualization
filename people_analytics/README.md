@@ -17,7 +17,6 @@ Kaggle - Human Resources Dataset: https://www.kaggle.com/rhuebner/human-resource
 ## Arquivos
 
 - Arquivo em pbix com a visualização dos dados analisados
-- Artigo em pdf sobre a importância da análise de dados na área de Recursos Humanos
 
 
 
