@@ -6,7 +6,7 @@ Pensando na importância da análise de pessoas em uma empresa, analisei o conju
 
 Este projeto foi realizado com o apoio do curso Dominando Data Science da [Flai Inteligência Artificial](https://www.flai.com.br/).
 
-[ACESSO AO DASHBOARD ONLINE](https://app.powerbi.com/view?r=eyJrIjoiNTU4ZTMwOWMtMjcwNC00MmFkLWFlZjktNWY3YzdhMjAwMGVhIiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9&pageName=ReportSection11e471a904142052adaa)
+[ACESSO AO DASHBOARD ONLINE](https://app.powerbi.com/view?r=eyJrIjoiZjUyYTg5ZGMtNTY5MC00OTcyLWExNDctZTUxN2FkZWM0YTMyIiwidCI6ImNhMGRiYTRiLTRlYTktNGVkNS04ODMwLTUzNzk5MzkwZWMzNSJ9&pageName=ReportSection11e471a904142052adaa)
 
 [ARTIGO NO MEDIUM](https://theresarocha.medium.com/people-analytics-an%C3%A1lise-de-pessoas-orientada-a-dados-6059beb66ea2)
 
